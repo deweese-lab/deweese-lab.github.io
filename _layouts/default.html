@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600">
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+  <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+  <link href="{{ site.url }}/css/zoom.css" rel="stylesheet">
+  <script src="{{ site.url }}/js/zoom.js"></script>
+  <script src="{{ site.url }}/js/transition.js"></script>
+
+  <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
+  <!-- favicon -->
+  <link rel="shortcut icon" href="{{ site.url }}/favicon.ico">
+  <link rel="shortcut icon" href="{{ site.url }}/favicon.png">
+  <link rel="apple-touch-icon-precomposed" href="{{ site.url }}/images/logo/apple-touch-icon.png">
+
+  <!-- open graph -->
+
+  {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
+  {% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ content }}{% endif %}{% endcapture %}
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="{{ canonical }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:description" content="{{ description | strip_html | condense_spaces | truncate:150 }}" />
+  <meta property="og:image" content="{{ site.url }}/images/logo/logo_square.jpg">
+
+</head>
+
+<body id="page-top" style="padding-top: 7em;">
+
+    {% include navbar.html %}
+    {{ content }}
+
+</body>
+</html>

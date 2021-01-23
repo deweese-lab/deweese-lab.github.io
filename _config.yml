@@ -1,0 +1,63 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# Basic
+name:               "DeWeese lab"
+title:              "DeWeese lab at UC Berkeley"
+description:        "this is a page for DeWeese lab at the University of California, Berkeley"
+
+
+# URL
+url:                https://deweese-lab.github.io/
+baseurl:            
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
+
+# Markdown
+markdown:           kramdown
+
+# Highlighter
+highlighter:        rouge
+
+# Navigation
+nav:
+
+  - name:           "about"
+    href:           "/about"
+  - name:           "people"
+    href:           "/people"
+  - name:           "publications"
+    href:           "/publication"
+
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+  -
+    scope:
+      path:         ""
+      type:         "people"
+    values:
+      layout:       "profile"
+
+
+collections:
+  people:
+    output: true
+    permalink: /people/:title/index.html
