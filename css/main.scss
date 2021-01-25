@@ -1,6 +1,40 @@
 ---
 ---
 
+html, html[data-theme="light"] {
+	--link-color: rgb(0, 112, 201);
+  --main-background-color: hsl(0, 0%, 100%);
+  --main-text-color: hsl(0, 0%, 20%);
+  --opposite-text-color: hsl(0, 0%, 85%);
+}
+
+html[data-theme="dark"] {
+  --link-color: rgb( 100, 210, 255);
+  --main-background-color: hsl(0, 0%, 20%);
+  --main-text-color: hsl(0, 0%, 85%); 
+  --opposite-text-color: hsl(0, 0%, 20%);
+}
+
+
+@media (prefers-color-scheme: dark) {
+    html, html[data-theme="dark"] {
+      --link-color: rgb( 100, 210, 255);
+    	--main-background-color: hsl(0, 0%, 20%);
+    	--main-text-color: hsl(0, 0%, 85%); 
+		--opposite-text-color: hsl(0, 0%, 20%);
+    }
+
+    html[data-theme="light"] {
+		  --link-color: rgb(0, 112, 201);
+    	--main-background-color: hsl(0, 0%, 100%);
+  	 --main-text-color: hsl(0, 0%, 20%);
+	 --opposite-text-color: hsl(0, 0%, 85%);
+  } 
+}
+
+
+
+
 
 * {
   -webkit-box-sizing: border-box;
@@ -26,8 +60,8 @@ html {
 }
 
 body {
-  color: #515151;
-  background-color: #fff;
+  color: var(--main-text-color);
+  background-color: var(--main-background-color);
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -37,7 +71,7 @@ body {
 }
 
 a {
-  color: #268bd2;
+  color: var(--link-color);
   text-decoration: none;
 
   &:hover,
@@ -52,9 +86,19 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   font-family: "Open Sans", "Source Sans Pro";
   line-height: 1.1;
-  color: #333;
+  color: var(--main-text-color);
   letter-spacing: -.025rem;
 }
+
+#collapse-content {
+  margin-top: 1em;
+  margin-bottom: .5rem;
+  font-weight: 300;
+  font-family: "Open Sans", "Source Sans Pro";
+  color: var(--main-text-color);
+  text-align: justify;
+}
+
 
 h1 {
   font-size: 2rem;
@@ -156,14 +200,14 @@ hr {
 }
 
 strong {
-  color: #333;
+  color: var(--main-text-color);
   font-weight: 600;
 }
 
 abbr {
   font-size: 80%;
   font-weight: bold;
-  color: #555;
+  color: var(--main-text-color);
   text-transform: uppercase;
 }
 
@@ -283,16 +327,7 @@ tbody tr:nth-child(odd) th {
   font-size: 1.25rem;
 }
 
-.container {
-  max-width: 40rem;
-//  padding: 2rem 1.5rem;
-  margin-left:  auto;
-  margin-right: auto;
 
-  @media (min-width: 40rem){
-//    padding: 5rem 1rem;
-  }
-}
 
 .masthead {
 
@@ -377,7 +412,7 @@ tbody tr:nth-child(odd) th {
     margin-bottom: .25rem;
 
     a {
-      color: #333;
+      color:  var(--main-text-color);
 
       &:hover,
       &:focus {
@@ -394,7 +429,7 @@ tbody tr:nth-child(odd) th {
 
 .projects-list {
   a {
-    color: #333;
+    color:  var(--main-text-color);
   }
 }
 

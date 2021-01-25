@@ -5,13 +5,21 @@ permalink: /publication/
 
 For those interested in numbers, see Mike's [google scholar citations profile](https://scholar.google.com/citations?user=DZ9-LmkAAAAJ&hl=en).
 
-We try to include links for all of our papers. Some of the links open PDFs, others direct you to a journal's site where that particular publication is available for download. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
+We try to include links for all of our papers. Most links direct you to a journal's site where that particular publication is available for download. If you cannot access one of our papers, let us know.
 
 <hr>
 
 ### 2020
 
-_Critical Point-Finding Methods Reveal Gradient-Flat REgions of Deep Network Losses_<br>
+_Engineered Swift Equilibration for Arbitrary Geometries_<br>
+Adam Frim, Adrianne Zhong, Stephen Chen, Dibyendu Mandal, Mike R DeWeese<br>
+**preprint** ([Article](https://arxiv.org/abs/2012.08672))
+
+_Efficient sensory coding of multidimensional stimuli_<br>
+Thomas Yerxa, Eric Kee, Mike DeWeese, Emily Cooper<br>
+**PLOS Computational Biology** ([Article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008146))
+
+_Critical Point-Finding Methods Reveal Gradient-Flat Regions of Deep Network Losses_<br>
 Charles Frye, Jamie Simon, Neha Wadia, Andrew Ligeralde, Mike DeWeese, Kris Bouchard<br>
 **preprint** ([Article](https://arxiv.org/abs/2003.10397))
 
@@ -19,8 +27,16 @@ _Heterogeneous Synaptic Weighting Improves Neural Coding in the Presence of Comm
 Pratik Sachdeva, Jesse Livezy, Mike DeWeese<br>
 **Neural Computation** ([Article](https://www.mitpressjournals.org/doi/10.1162/neco_a_01287?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed))
 
+### 2019
 
+_Spike-timing-dependent ensemble encoding by non-classically responsive cortical neurons_<br>
+Michele Insanally, Ioana Carcea, Rachel Field, Chris Rodgers, Brian DePasquale, Kanaka Rajan, Mike DeWeese, Badr Albanna, Robert Froemke<br>
+**eLife** ([Article](https://elifesciences.org/articles/42409))
 
-### Copyright Notice
+_On the sparse structure of natural sounds and natural images: similarities, differences, and implications for neural coding_<br>
+Eric Dodds, Mike DeWeese<br>
+**Frontiers in Computational Neuroscience** ([Article](https://www.frontiersin.org/articles/10.3389/fncom.2019.00039/full))
 
-The documents listed here are available for downloading and have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be re-posted without the explicit permission of the copyright holder.
+_Replay as wavefronts and theta sequences as bump oscillations in a grid cell attractor network_<br>
+Louis Kang, Mike DeWeese<br>
+**eLife** ([Article](https://elifesciences.org/articles/46351))

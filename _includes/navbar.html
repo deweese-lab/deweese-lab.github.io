@@ -20,6 +20,7 @@
                       {% for nav in site.nav %}
                       <li><a class='name' href="{{ nav.href }}">{{ nav.name }}</a></li>
                       {% endfor %}
+                      <li><a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a></li>
                     </ul>
                 </ul>
             </div>
