@@ -3,9 +3,7 @@ title: Publication
 permalink: /publication/
 ---
 
-For those interested in numbers, see Mike's [google scholar citations profile](https://scholar.google.com/citations?user=DZ9-LmkAAAAJ&hl=en).
-
-We try to include links for all of our papers. Most links direct you to a journal's site where that particular publication is available for download. If you cannot access one of our papers, let us know.
+We try to include links for all of our papers. Most links direct you to a journal's site where that particular publication is available for download. If you cannot access one of our papers, let us know.  For a more complete list, see Mike's [google scholar citations profile](https://scholar.google.com/citations?user=DZ9-LmkAAAAJ&hl=en).
 
 <hr>
 
