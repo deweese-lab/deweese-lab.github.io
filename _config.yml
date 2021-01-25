@@ -9,7 +9,7 @@ description:        "this is a page for DeWeese lab at the University of Califor
 
 
 # URL
-url:                https://ncinko-testing.github.io/
+url:                "https://deweeselab.com"
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
@@ -59,3 +59,6 @@ collections:
   people:
     output: true
     permalink: /people/:title/index.html
+    
+plugins:
+  - jekyll-sitemap
