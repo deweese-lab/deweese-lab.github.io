@@ -4,8 +4,6 @@ position: gradstudent
 avatar: neha.jpg
 ---
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
-
 - _PhD Student, Biophysics at UC Berkeley_<br>
 
 <i class="fa fa-envelope-o"></i> `neha.wadia@berkeley.edu`

@@ -4,9 +4,7 @@ position: gradstudent
 avatar: adrianne.jpg
 ---
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
-
-- _PhD Student, Physics at UC Berkeley_<br>
+- _PhD Student, Physics Department_<br>
 
 <i class="fa fa-envelope-o"></i> `adrizhong@berkeley.edu`
 

@@ -1,9 +1,23 @@
 <h3>
-	Recent Work
+	Selected Recent Works
 </h3>
 
 <div class="row">
-  <div class="col-md-6"><img class='img-responsive center-block' src="/images/other/nn_loss.png"  width="60%" height="60%" />
+
+<div class="col-md-6">
+  <button type="button" class="collapsible">
+  	<img class='img-responsive center-block' src="/images/other/shallow_learning_sketch.png"  width="80%" />
+  		On the Power of Shallow Learning
+	</button>
+	<div class="collapse-content", id="collapse-content">
+		<p>
+			Much of our understanding of artificial neural networks stems from the fact that, in the infinite-width limit, they turn out to be equivalent to a class of simple models called <i>kernel methods.</i> Given a wide network architecture, it's surprisingly easy to find the equivalent kernel method, allowing us to study popular models in the infinite-width limit. In recent work with Sajant Anand, I showed that, for fully-connected nets (FCNs), this mapping can be run in reverse: given a desired kernel, we can work backwards to find a network that achieves it. Surprisingly, we can always design this network to have only a single hidden layer, and we used that fact to prove that wide shallow FCNs can achieve any kernel a deep FCN can, an analytical conclusion our experiments support. This ability to design nets with desired kernels is a step towards deriving good net architectures <i>from first principles</i>, a longtime dream of the field of machine learning. <a href="https://arxiv.org/abs/2106.03186v1">[arXiv]</a><a href="https://github.com/james-simon/shallow-learning">[code]</a>
+		</p>
+	</div>
+</div>
+
+
+<!--   <div class="col-md-6"><img class='img-responsive center-block' src="/images/other/nn_loss.png"  width="60%" height="60%" />
   <button type="button" class="collapsible">Neural Network Loss Surfaces</button>
 		<div class="collapse-content", id="collapse-content">
 		<p>
@@ -17,8 +31,8 @@
 		The presence of these regions necessitates care in both interpreting past results that claimed to find critical points of neural network losses and in designing second-order methods for optimizing neural networks.
 		</p>
 		</div>
-  
-  </div>
+  </div> -->
+
   <div class="col-md-6">
   <img class='img-responsive center-block' src="/images/other/neural_variability.PNG"  width="80%" height="80%" />
   <button type="button" class="collapsible">Neural Coding and Noise</button>

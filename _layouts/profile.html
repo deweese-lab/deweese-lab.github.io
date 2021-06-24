@@ -1,7 +1,21 @@
 ---
 layout: default
 ---
-<div class="container content page">
-  <h3 class="page-title">{{ page.name }}</h3>
-  {{ content }}
+
+<!-- <div class="container">
+<img src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom" class="pull-left" style="margin: 30px;" width=20%>
+<h2 class="page-title">{{ page.name }}</h2>
+{{ content }}
+</div> -->
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-3">
+      <img src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+    </div>
+    <div class="col-md-9">
+      <h2 class="page-title">{{ page.name }}</h2>
+      {{ content }}
+    </div>
+  </div>
 </div>

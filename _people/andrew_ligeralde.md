@@ -4,9 +4,7 @@ position: gradstudent
 avatar: andrew.jpg
 ---
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
-
-- _PhD student, Physics at UC Berkeley_<br>
+- _PhD student, Biophysics Department_<br>
 
 <i class="fa fa-envelope-o"></i> `ligeralde@berkeley.edu`
 

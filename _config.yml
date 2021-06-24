@@ -1,26 +1,16 @@
-# # # # # # # #
-#   K i k o   #
-# # # # # # # #
-
-# Basic
-name:               "DeWeese lab"
-title:              "DeWeese lab at UC Berkeley"
-description:        "this is a page for DeWeese lab at the University of California, Berkeley"
+name:               "DeWeese Lab"
+title:              "DeWeese Lab at UC Berkeley"
+description:        "this is a page for the DeWeese lab at the University of California, Berkeley"
 
 
-# URL
 url:                "https://deweeselab.com"
 baseurl:            
-#baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
-# Markdown
 markdown:           kramdown
-
-# Highlighter
 highlighter:        rouge
 
-# Navigation
+
 nav:
 
   - name:           "people"

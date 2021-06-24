@@ -56,9 +56,9 @@ permalink: /people/
 
 <br>
 
-| Who are they | When were they here | Where they went |
+<!-- | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| Alum Ni | Student | Professor, Department, University |
+| Alum Ni | Student | Professor, Department, University | -->
 
 
 {% endif %}

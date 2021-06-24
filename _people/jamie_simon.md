@@ -4,11 +4,9 @@ position: gradstudent
 avatar: jamie.jpg
 ---
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+- _PhD Student, Physics Department_<br>
 
-- _PhD Student, Physics at UC Berkeley_<br>
-
-<i class="fa fa-envelope-o"></i> `jsi@berkeley.edu`
+<i class="fa fa-envelope-o"></i> `jsi@berkeley.edu` <a class="btn btn-info btn-sm" href="https://james-simon.github.io" role="button">Personal Site</a>
 
 **Current Research**
 

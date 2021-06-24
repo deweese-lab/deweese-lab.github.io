@@ -5,9 +5,7 @@ avatar: mike.jpg
 twitter: deweese-lab
 ---
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
-
-- _Associate Professor, Helen Wills Neuroscience Institute and Physics_<br>
+- _Associate Professor, Helen Wills Neuroscience Institute and Physics Department_<br>
 
 <i class="fa fa-envelope-o"></i> `deweese@berkeley.edu`
 
