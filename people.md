@@ -22,6 +22,8 @@ permalink: /people/
 <h3>Principal Investigator</h3>
  {% elsif role == 'gradstudent' %}
 <h3>Graduate Students</h3>
+ {% elsif role == 'undergrad' %}
+<h3>Undergraduate Students</h3>
  {% elsif role == 'researchstaff' %}
 <h3>Research Staff</h3>
  {% elsif role == 'visiting' %}
