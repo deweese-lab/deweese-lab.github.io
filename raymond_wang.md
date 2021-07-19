@@ -1,7 +1,7 @@
 ---
 name: Raymond Wang
-position: gradstudent
-avatar: steven.jpg
+position: undergrad
+avatar: raymond.jpg
 ---
 
 - _Undergraduate student, Neuroscience Department_<br>
