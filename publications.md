@@ -29,7 +29,7 @@ Neha Wadia, Ryan Zarcone, Mike DeWeese, Dibyendu Mandal
 
 _Efficient sensory coding of multidimensional stimuli_<br>
 Thomas Yerxa, Eric Kee, Mike DeWeese, Emily Cooper<br>
-[[[PLOS Computational Biology]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008146)
+[[PLOS Computational Biology]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008146)
 
 _Heterogeneous Synaptic Weighting Improves Neural Coding in the Presence of Common Noise_<br>
 Pratik Sachdeva, Jesse Livezy, Mike DeWeese<br>
@@ -49,14 +49,14 @@ _Replay as wavefronts and theta sequences as bump oscillations in a grid cell at
 Louis Kang, Mike DeWeese<br>
 [[eLife]](https://elifesciences.org/articles/46351)
 
-_Design of optical neural networks with component imprecisions_
- Michael Fang, Sasikanth Manipatruni, Casimir Wierzynski, Amir Khosrowshahi, Mike DeWeese
+_Design of optical neural networks with component imprecisions_<br>
+ Michael Fang, Sasikanth Manipatruni, Casimir Wierzynski, Amir Khosrowshahi, Mike DeWeese<br>
 [[Optics Express]](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-27-10-14009&id=411885)
 
-_Numerically recovering the critical points of a deep linear autoencoder_
-Charles Frye, Neha Wadia, Mike DeWeese, Kris Bouchard
+_Numerically recovering the critical points of a deep linear autoencoder_<br>
+Charles Frye, Neha Wadia, Mike DeWeese, Kris Bouchard<br>
 [[arXiv]](https://arxiv.org/abs/1901.10603)
 
-_Spatial whitening in the retina may be necessary for V1 to learn a sparse representation of natural scenes_
-Eric Dodds, Jesse Livezey, Mike DeWeese
+_Spatial whitening in the retina may be necessary for V1 to learn a sparse representation of natural scenes_<br>
+Eric Dodds, Jesse Livezey, Mike DeWeese<br>
 [[bioRxiv]](https://www.biorxiv.org/content/10.1101/776799v1.abstract)
