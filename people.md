@@ -10,6 +10,10 @@ permalink: /people/
 
 {% assign people_in_role = people_sorted | where: 'position', role %}
 
+<!-- {{ role }}
+{{ people_in_role.size }} -->
+
+
 <!-- Skip section if there's nobody -->
 {% if people_in_role.size == 0 %}
   {% continue %}
@@ -31,7 +35,7 @@ permalink: /people/
  {% elsif role == 'others' %}
 <h3>Honorary Members</h3>
  {% elsif role == 'alumni' %}
-<h3>Alumni</h3>
+<!-- <h3>Alumni</h3> -->
 {% endif %}
 </div>
 
