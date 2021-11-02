@@ -23,8 +23,8 @@ Charles Frye, Jamie Simon, Neha Wadia, Andrew Ligeralde, Mike DeWeese, Kris Bouc
 
 ### 2020
 
-_A Solution to Driven Brownian Motion and its Application to the Optimal Control of Small Stochastic Systems_
-Neha Wadia, Ryan Zarcone, Mike DeWeese, Dibyendu Mandal
+_A Solution to the Fokker-Planck Equation for Slowly Driven Brownian Motion: Emergent Geometry and a Formula for the Corresponding Thermodynamic Metric_<br>
+Neha Wadia, Ryan Zarcone, Mike DeWeese<br>
 [[arXiv]](https://arxiv.org/pdf/2008.00122.pdf)
 
 _Efficient sensory coding of multidimensional stimuli_<br>
