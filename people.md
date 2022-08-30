@@ -3,8 +3,8 @@ title: People
 permalink: /people/
 ---
 
-{% assign people_sorted = site.people | sort: 'joined' %}
-{% assign role_array = "pi|postdoc|gradstudent|undergrad|researchstaff|visiting|others|alumni" | split: "|" %}
+{% assign people_sorted = site.people | sort: 'name' %}
+{% assign role_array = "pi|postdoc|gradstudent|undergrad|researchstaff|visiting|others|alumnii" | split: "|" %}
 
 {% for role in role_array %}
 
@@ -17,6 +17,11 @@ permalink: /people/
 <!-- Skip section if there's nobody -->
 {% if people_in_role.size == 0 %}
   {% continue %}
+{% endif %}
+
+
+{% if role != 'pi' %}
+<hr>
 {% endif %}
 
 <div class="pos_header">
@@ -56,7 +61,6 @@ permalink: /people/
     {% endif %}
   {% endfor %}
 </div>
-<hr>
 
 {% else %}
 

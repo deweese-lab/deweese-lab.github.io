@@ -10,8 +10,9 @@ avatar: adrianne.jpg
 
 **Current Research**
 
-[redacted]
+My research revolves around leveraging optimal control theory to study dynamical systems far from equilibrium, with the ultimate goal of discovering thermodynamic principles that underlie biological systems.
 
 **Bio**
 
-[redacted]
+Outside of science, I enjoy reading, hiking, and songwriting.
+

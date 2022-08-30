@@ -1,0 +1,53 @@
+<h3>
+	Selected Recent Works
+</h3>
+
+<div class="row">
+
+<div class="col-md-6">
+  <button type="button" class="collapsible">
+  	<img class='img-responsive center-block' src="/images/other/shallow_learning_sketch.png"  width="80%" />
+  		On the Power of Shallow Learning
+	</button>
+	<div class="collapse-content", id="collapse-content">
+		<p>
+			Much of our understanding of artificial neural networks stems from the fact that, in the infinite-width limit, they turn out to be equivalent to a class of simple models called <i>kernel methods.</i> Given a wide network architecture, it's surprisingly easy to find the equivalent kernel method, allowing us to study popular models in the infinite-width limit. In recent work with Sajant Anand, I showed that, for fully-connected nets (FCNs), this mapping can be run in reverse: given a desired kernel, we can work backwards to find a network that achieves it. Surprisingly, we can always design this network to have only a single hidden layer, and we used that fact to prove that wide shallow FCNs can achieve any kernel a deep FCN can, an analytical conclusion our experiments support. This ability to design nets with desired kernels is a step towards deriving good net architectures <i>from first principles</i>, a longtime dream of the field of machine learning. <a href="https://arxiv.org/abs/2106.03186v1">[arXiv]</a><a href="https://github.com/james-simon/shallow-learning">[code]</a>
+		</p>
+	</div>
+</div>
+
+
+<!--   <div class="col-md-6"><img class='img-responsive center-block' src="/images/other/nn_loss.png"  width="60%" height="60%" />
+  <button type="button" class="collapsible">Neural Network Loss Surfaces</button>
+		<div class="collapse-content", id="collapse-content">
+		<p>
+		Despite the fact that the loss functions of deep neural networks are highly non-convex, gradient-based optimization algorithms converge to approximately the same performance from many random initial points. 
+		One thread of work has focused on explaining this phenomenon by characterizing the local curvature near critical points of the loss function, where the gradients are near zero, and demonstrating that neural network losses enjoy a no-bad-local-minima property and an abundance of saddle points. 
+		
+		</p>
+		<p>
+		The methods used to find these putative critical points suffer from a bad local minima problem of their own: they often converge to or pass through regions where the gradient norm has a stationary point. 
+		We call these gradient-flat regions, since they arise when the gradient is approximately in the kernel of the Hessian, such that the loss is locally approximately linear, or flat, in the direction of the gradient. 
+		The presence of these regions necessitates care in both interpreting past results that claimed to find critical points of neural network losses and in designing second-order methods for optimizing neural networks.
+		</p>
+		</div>
+  </div> -->
+
+  <div class="col-md-6">
+  <img class='img-responsive center-block' src="/images/other/neural_variability.PNG"  width="80%" height="80%" />
+  <button type="button" class="collapsible">Neural Coding and Noise</button>
+		<div class="collapse-content", id="collapse-content">
+		<p>
+		Simultaneous recordings from the cortex have revealed that neural activity is highly variable and that some variability is shared across neurons in a population. Further experimental work has demonstrated that the shared component of a neuronal population's variability is 
+		typically comparable to or larger than its private component. Meanwhile, an abundance of theoretical work has assessed the impact that shared variability has on a population code. For example, shared input noise is understood to have a detrimental impact on a neural population's coding fidelity. 
+		</p>
+		<p>
+		However, other contributions to variability, such as common noise, can also play a role in shaping correlated variability. We present a network of linear-nonlinear neurons in which we introduce a common noise input to model—for instance,
+		variability resulting from upstream action potentials that are irrelevant to the task at hand. We show that by applying a heterogeneous set of synaptic weights to the neural inputs carrying the common noise, the network can improve its coding ability...
+		</p>
+		</div>
+  
+  </div>
+  
+  
+  </div>

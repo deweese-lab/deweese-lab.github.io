@@ -1,6 +1,6 @@
 ---
 name: Tyler Maltba
-position: gradstudent
+position: gradstuden
 avatar: tyler.jpg
 ---
 

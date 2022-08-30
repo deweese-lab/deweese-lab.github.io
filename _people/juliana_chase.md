@@ -1,6 +1,6 @@
 ---
 name: Juliana Chase
-position: gradstudent
+position: gradstudent?
 avatar: juliana.jpg
 ---
 

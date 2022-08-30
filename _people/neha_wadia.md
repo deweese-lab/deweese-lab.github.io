@@ -1,6 +1,6 @@
 ---
 name: Neha Wadia
-position: gradstudent
+position: alumni
 avatar: neha.jpg
 ---
 
