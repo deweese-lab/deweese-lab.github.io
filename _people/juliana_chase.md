@@ -10,7 +10,7 @@ avatar: juliana.png
 
 **Current Research**
 
-In the [Wilbrecht lab](https://wilbrecht.org/), I study differences in learning across multiple genetic autism models through behavior, electrophysiology, circuit tracing, and computation. In the DeWeese lab, I'm a voyeur to the theoretical. 
+I am primarily affiliated with the [Wilbrecht lab](https://wilbrecht.org/), where I study differences in learning across multiple genetic autism models through behavior, electrophysiology, circuit tracing, and computation. I am also loosely affiliated with the DeWeese lab, where I'm a voyeur to the theoretical. 
 
 **Bio**
 
