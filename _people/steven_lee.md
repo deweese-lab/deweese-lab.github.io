@@ -1,6 +1,6 @@
 ---
 name: Steven Lee
-position: gradstuden
+position: gradstudent
 avatar: steven.jpg
 ---
 

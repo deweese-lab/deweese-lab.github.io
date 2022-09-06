@@ -30,7 +30,7 @@ Neha Wadia, Ryan Zarcone, Michael DeWeese<br>
 [[PRE]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.034130)
 
 _Sparse coding models predict a spectral bias in the development of primary visual cortex (V1) receptive fields_<br>
-Andrew Ligeralde, Michael DeWeese<br>
+Andrew Ligeralde and Michael DeWeese<br>
 [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2022.03.17.484705v1.full.pdf)
 
 ### 2021
