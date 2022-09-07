@@ -1,7 +1,7 @@
 ---
 name: Steven Lee
 position: gradstudent
-avatar: steven.jpg
+avatar: steven.png
 ---
 
 - _PhD student, Physics Department_<br>
