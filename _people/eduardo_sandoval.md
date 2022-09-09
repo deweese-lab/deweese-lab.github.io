@@ -1,7 +1,7 @@
 ---
 name: Eduardo Sandoval
 position: gradstudent
-avatar: eduardo.png
+avatar: eduardo.jpg
 ---
 
 - _PhD student, Helen Wills Neuroscience Program_<br>
