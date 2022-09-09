@@ -6,7 +6,7 @@ avatar: eduardo.png
 
 - _PhD student, Helen Wills Neuroscience Program_<br>
 
-<i class="fa fa-envelope-o"></i> `j.chase@berkeley.edu`
+<i class="fa fa-envelope-o"></i> `esandoval@berkeley.edu`
 
 **Current Research**
 
