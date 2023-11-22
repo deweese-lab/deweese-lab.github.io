@@ -19,7 +19,8 @@ My immediate projects are to compare neural correlates of behavior across iEEG(5
 
 **Bio**
 
-My past research has been diverse including:
+
+My past research has involved:
 1. Studying ultra-fast endocytosis in excitatory in mouse hippocampal cultures in the Watanabe lab at Johns Hopkins School of Medicine.
 2. Development of image preprocessing and computer vision pipelines for downstream convolutional neural network classification of mosquitos on behalf of VecTech LLC in collaboration with the Global Health and Engineering lab in the Department of Biomedical Engineering at Johns Hopkins University.
 3. Use of computer vision to analyze FRAP (fluorescence recovery after photobleaching) data as well as Lagrangian mechanics to develop mass action models of phase separated closed membrane vesicles and protein phase separation. Done in the Liu Lab at the Center for Cell Dynamics at Johns Hopkins School of Medicine.
