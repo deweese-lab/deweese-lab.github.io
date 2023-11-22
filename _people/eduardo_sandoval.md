@@ -11,8 +11,8 @@ avatar: eduardo.jpg
 **Current Research**
 
 I am co-mentored by Robert T. Knight in the Department of Psychology and Michael DeWeese in Redwood and the Department of Physics.
-In the DeWeese lab, I have implemented STDP rules in a spiking neural network(SAILnet) to allow us to use time-varying data as input to the model. I am currently
-investigating the spatiotemporal receptive field properties of the neurons in this network. 
+In the DeWeese lab, I have implemented STDP rules in a spiking neural network(SAILnet) to allow us to use time-varying data as input to the model. 
+My current project involves developing a causal model of sparse coding for auditory nerve fibers.
 
 In the Knight lab, I analyze human intra-cranial data while patients in the hospital complete various tasks, 
 currently looking at LFPs in Auditory Cortex and Insula during a music listening task, 
@@ -27,10 +27,10 @@ what was important for a cell to operate, and more over what was so special abou
 I have also used image processing and computer vision techniques to assist the Global Health and Engineering lab in the Department of Biomedical Engineering at Hopkins
 to process a dataset of mosquito images for downstream convolutional neural network classification. I learned how to code and develop a love of programming here.
 In combination with experiments done in the Watanabe lab, I have also
-used the computer vision techniques to analyze fluorescence data and modeled it in the Liu Lab at the Center for Cell Dynamics at Johns Hopkins. 
+used computer vision techniques to analyze fluorescence data and modeled this in the Liu Lab at the Center for Cell Dynamics at Johns Hopkins. 
 Here, I developed physical intuitation and developed mass action models of phase separated closed membrane vesicles, 
 and models of protein phase separation using advection-diffusion systems of equations.
-Finally, I spent two years following my undergrad career in the Honey Lab in the Department of Psychology at Hopkins. Here I used Javascript, SQL, and python to develop
+Finally, I spent two years following my undergrad career in the Honey Lab in the Department of Psychological and Brain Sciences at Hopkins. Here I used Javascript, SQL, and python to develop
 behavioral experiments and analyze their results. In addition, I started toying with recurrent neural networks during this time. Here our focus was on the hierarchy
 of temporal integration and separation in the human cortex. It was here that I developed a fundamental interest in memory and cognition/perception and in a 
 temporal aspect to information processing.
