@@ -23,6 +23,8 @@ My past research has been diverse including:
 2. Development of image preprocessing and computer vision pipelines for downstream convolutional neural network classification of mosquitos on behalf of VecTech LLC in collaboration with the Global Health and Engineering lab in the Department of Biomedical Engineering at Johns Hopkins University.
 3. Use of computer vision to analyze FRAP (fluorescence recovery after photobleaching) data as well as Lagrangian mechanics to develop mass action models of phase separated closed membrane vesicles and protein phase separation. Done in the Liu Lab at the Center for Cell Dynamics at Johns Hopkins School of Medicine.
 4. Development of behavioral experiments investigating temporal integration and separation and exploration of recurrent neural networks in the Honey lab at the Department of Psychological and Brain Sciences at Johns Hopkins University.
+
+
 Combining all my experiences, I strive to be a computational neuroscientist that thinks about multiple scales of organization at once, 
 from the importance of information processing across a single synapse, up to population level ideas about information processing and how cognition can arise from that,
 and moreover how this occurs from physical phenomena whether that be via physical constraints of neural architectures, or 
