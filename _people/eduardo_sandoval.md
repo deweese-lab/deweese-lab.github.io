@@ -18,6 +18,7 @@ In the Knight lab, I analyze human intra-cranial data while patients in the hosp
 My immediate projects are to compare neural correlates of behavior across iEEG(5 mm), microLFP(5 um), and single unit data within the anterior cingulate cortex, orbitofrontal cortex, and hippocampus during the Wisconsin Card Sorting Task and the Interval Timing Task.
 
 **Bio**
+
 My past research has been diverse including:
 1. Studying ultra-fast endocytosis in excitatory in mouse hippocampal cultures in the Watanabe lab at Johns Hopkins School of Medicine.
 2. Development of image preprocessing and computer vision pipelines for downstream convolutional neural network classification of mosquitos on behalf of VecTech LLC in collaboration with the Global Health and Engineering lab in the Department of Biomedical Engineering at Johns Hopkins University.
