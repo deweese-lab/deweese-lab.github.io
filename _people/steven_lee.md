@@ -1,6 +1,7 @@
 ---
 name: Steven Lee
 position: gradstudent
+year: 2019
 avatar: steven.png
 ---
 
@@ -10,8 +11,4 @@ avatar: steven.png
 
 **Current Research**
 
-[REDACTED]
-
 **Bio**
-
-[REDACTED]

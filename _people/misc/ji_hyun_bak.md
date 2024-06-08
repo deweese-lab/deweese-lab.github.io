@@ -1,6 +1,6 @@
 ---
 name: Ji Hyun Bak
-position: alumni
+position: others
 avatar: jihyun.jpg
 ---
 

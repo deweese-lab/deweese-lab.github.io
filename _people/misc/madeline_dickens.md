@@ -1,6 +1,6 @@
 ---
 name: Madeline Dickens
-position: alumni
+position: others
 avatar: maddie.png
 ---
 

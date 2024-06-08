@@ -1,6 +1,7 @@
 ---
 name: Adam Frim
-position: gradstudent
+position: alumni
+year: 2019
 avatar: adam.png
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: Jamie Simon
 position: gradstudent
+year: 2019
 avatar: jamie.jpg
 ---
 

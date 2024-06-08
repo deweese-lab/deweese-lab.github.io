@@ -582,3 +582,23 @@ tbody tr:nth-child(odd) th {
   border: none;
   background-color: #FFF;
 }
+
+
+// CUSTOM
+
+.about-section {
+  font-family: "Open Sans", "Source Sans Pro";
+  font-size: 0.8rem;
+  margin-bottom: 20px; /* Space between sections */
+}
+
+.about-title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 0.9rem;
+  margin-bottom: 5px; /* Space between title and paragraph */
+}
+
+.about-info {
+  text-align: left;
+}

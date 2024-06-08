@@ -1,6 +1,6 @@
 ---
 name: Raymond Wang
-position: alumni
+position: others
 avatar: raymond.jpg
 ---
 

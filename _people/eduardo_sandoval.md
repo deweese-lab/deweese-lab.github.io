@@ -1,6 +1,7 @@
 ---
 name: Eduardo Sandoval
 position: gradstudent
+year: 2021
 avatar: eduardo.jpg
 ---
 

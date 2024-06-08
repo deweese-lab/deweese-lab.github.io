@@ -1,6 +1,6 @@
 ---
 name: Nick Cinko
-position: alumni
+position: others
 avatar: nick.jpg
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: Neha Wadia
 position: alumni
+year: 2017
 avatar: neha.jpg
 ---
 

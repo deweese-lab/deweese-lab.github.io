@@ -1,6 +1,7 @@
 ---
 name: Adrianne Zhong
 position: gradstudent
+year: 2020
 avatar: adrianne.jpg
 ---
 

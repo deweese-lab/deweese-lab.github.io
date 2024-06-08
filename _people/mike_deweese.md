@@ -2,6 +2,7 @@
 name: Mike DeWeese
 position: pi
 avatar: mike.jpg
+year: 2007
 twitter: deweese-lab
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: Juliana Chase
 position: gradstudent
+year: 2018
 avatar: juliana.png
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: Andrew Ligeralde
-position: gradstudent
+position: alumni
+year: 2018
 avatar: andrew.jpg
 ---
 

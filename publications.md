@@ -7,19 +7,55 @@ We try to include links for all of our recent papers. Most links direct you to a
 
 <hr>
 
+### 2024
+
+_Beyond Linear Response: Equivalence between Thermodynamic Geometry and Optimal Transport_<br>
+Adrianne Zhong and Michael DeWeese <br>
+[[arXiv]](https://arxiv.org/abs/2404.01286)
+
+_More is Better in Modern Machine Learning: when Infinite Overparameterization is Optimal and Overfitting is Obligatory_<br>
+James Simon, Dhruva Karkada, Nikhil Ghosh, Mikhail Belkin <br>
+[[ICLR '24]](https://openreview.net/pdf?id=OdpIjS0vkO) [[arXiv]](https://arxiv.org/abs/2311.14646)
+
+_The lazy (NTK) and rich (μP) regimes: a gentle tutorial_<br>
+Dhruva Karkada <br>
+[[arXiv]](https://arxiv.org/abs/2404.19719)
+
+### 2023
+
+_The eigenlearning framework: A conservation law perspective on kernel ridge regression and wide neural networks_<br>
+James Simon, Madeline Dickens, Dhruva Karkada, Michael DeWeese<br>
+[[TMLR '23]](https://openreview.net/pdf?id=FDbQGCAViI) [[arXiv]](https://arxiv.org/abs/2110.03922) [[code]](https://github.com/james-simon/eigenlearning)
+
+_Shortcut engineering of active matter: run-and-tumble particles_<br>
+Adam Frim and Michael DeWeese <br>
+[[arXiv]](https://arxiv.org/abs/2304.06023)
+
+_Time-Asymmetric Fluctuation Theorem and Efficient Free Energy Estimation_<br>
+Adrianne Zhong, Benjamin Kuznets-Speck, Michael DeWeese <br>
+[[arXiv]](https://arxiv.org/abs/2304.12287v3)
+
+_A Spectral Condition for Feature Learning_<br>
+Greg Yang, James Simon, Jeremy Bernstein <br>
+[[arXiv]](https://arxiv.org/abs/2310.17813)
+
+_On the Stepwise Nature of Self-Supervised Learning_<br>
+James Simon, Maksis Knutins, Liu Ziyin, Daniel Geisz, Abraham Fetterman, Joshua Albrecht <br>
+[[arXiv]](https://arxiv.org/abs/2303.15438)
+
 ### 2022
 
 _Reverse Engineering the Neural Tangent Kernel_<br>
 James Simon, Sajant Anand, Michael DeWeese<br>
-[[ICML '22]](https://proceedings.mlr.press/v162/simon22a/simon22a.pdf) [[arXiv]](https://arxiv.org/abs/2106.03186v1)[[code]](https://github.com/james-simon/shallow-learning)
+[[ICML '22]](https://proceedings.mlr.press/v162/simon22a/simon22a.pdf) [[arXiv]](https://arxiv.org/abs/2106.03186v1) [[code]](https://github.com/james-simon/shallow-learning)
 
 _Geometric Bound on the Efficiency of Irreversible Thermodynamic Cycles_<br>
 Adam Frim and Michael DeWeese<br>
-[[PRL '22']](https://redwood.berkeley.edu/wp-content/uploads/2022/07/FrimGeometric2022.pdf)
+[[PRL '22]](https://redwood.berkeley.edu/wp-content/uploads/2022/07/FrimGeometric2022.pdf)
 
 _Optimal Finite-Time Brownian Carnot Engine_<br>
 Adam Frim and Michael DeWeese<br>
-[[PRE '22']](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.L052103)
+[[PRE '22]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.L052103)
 
 _Limited-control optimal protocols arbitrarily far from equilibrium_<br>
 Adrianne Zhong and Michael DeWeese<br>

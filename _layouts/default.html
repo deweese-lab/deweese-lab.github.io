@@ -36,7 +36,7 @@
   <meta property="og:description" content="{{ description | strip_html | condense_spaces | truncate:150 }}" />
   <meta property="og:image" content="{{ site.url }}/images/logo/logo_square.jpg">
 
-  <link rel="stylesheet" href="css/hover_effects.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/hover_effects.css">
 
   {% if jekyll.environment == 'production' %}
   {% include analytics.html %}

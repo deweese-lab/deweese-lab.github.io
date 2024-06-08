@@ -1,6 +1,7 @@
 ---
 name: Pratik Sachdeva
 position: alumni
+year: 2015
 avatar: pratik.jpg
 ---
 
