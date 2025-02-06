@@ -2,7 +2,7 @@
 name: Joey Turnbull
 position: gradstudent
 year: 2023
-avatar: blank.png
+avatar: joey.png
 ---
 
 - _PhD Student, Physics Department_<br>
