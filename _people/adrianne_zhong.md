@@ -1,7 +1,7 @@
 ---
 name: Adrianne Zhong
 position: gradstudent
-year: 2020
+year: 2025
 avatar: adrianne.jpg
 ---
 
@@ -11,9 +11,9 @@ avatar: adrianne.jpg
 
 **Current Research**
 
-I use tools from stochastic thermodynamics, optimal control theory, and optimal transport to develop algorithms to study non-equilibrium processes.
+I use tools from optimal control and optimal transport theory to investigate the fundamentally geometric structure of optimal nonequilibrium processes in stochastic thermodynamics. 
 
 **Bio**
 
-Outside of science, I enjoy music.
+Outside of science, I enjoy playing music with friends and recording tracks at home. 
 
