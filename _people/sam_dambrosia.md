@@ -7,7 +7,7 @@ avatar: sam.png
 
 - _PhD Student, Physics Department_<br>
 
-<i class="fa fa-envelope-o"></i> `sam.dambrosia@berkeley.edu`
+<i class="fa fa-envelope-o"></i> `shda@berkeley.edu`
 
 **Current Research**
 
