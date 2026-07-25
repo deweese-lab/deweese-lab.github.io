@@ -11,9 +11,7 @@ avatar: dhruva.jpg
 
 **Current Research**
 
-Deep learning is humanity’s most successful attempt thus far to imitate human intelligence. Despite fundamental differences between deep learning systems and biological brains, deep learning remains a theoretically- and experimentally-accessible playground for understanding learning as a general phenomenon. The long-term goal of my research is to probe deep learning systems (using both theoretical tools and numerical experiments) to elucidate general properties of systems that learn.
-
-Even as a toy model of learning, deep learning is itself mysterious in many ways. Experiments reveal many interesting behaviors (e.g. feature learning, neural scaling laws, emergent abilities) which are poorly understood from a theory standpoint. In particular, I'm interested the large-learning-rate phenomena associated with feature learning (e.g., dynamics of the local loss geometry, representation alignment, and edge-of-stability behavior) and I hope to understand why deep learning is more sample efficient than kernel machines.
+Despite fundamental differences between deep learning systems and biological brains, deep learning remains a theoretically- and experimentally-accessible playground for understanding learning as a general phenomenon. My work probes deep learning systems empirically and theoretically, with the end goal of understanding general principles underlying how such systems learn and compute. My recent work centers on understanding the origin and structure of vector representations in language models. I ultimately hope to trace these learned representations back to the statistics of the training data, to help understand how deep learning achieves better sample complexity than lazy methods like kernel machines.
 
 **Bio**
 
